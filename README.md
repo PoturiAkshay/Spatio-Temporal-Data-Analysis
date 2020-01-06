@@ -10,7 +10,7 @@ Steps followed for this project:
 with a 5 km radius around the center of each all Canadian ports. Second, I will find
 all the AIS data that intersect with these ports. 
 2. Showing the density (i.e., density is the number of vessels in that port), of each port on a map by
-using a colour-coded map. 
+using a color-coded map. 
 3. Now dividing the AIS data into data frames with one-hour interval. Repeat steps 1 and 2 for all
 of the sub-dataframes. Here each data frame has only information of one hour. 
 4. Selecting any port I like. Create a temporal chart for the density of that port. The x is the time
